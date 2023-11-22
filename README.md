@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @YaolinGe
-- 🌱 I’m currently doing my Ph.D. in Statistics at NTNU
+SWE | Explorer | Adventurer
 - 📫 How to reach me: geyaolin@gmail.com
 
 <!---
